@@ -6,5 +6,5 @@ In this folder i  will share full  guideline for neactNative app development pro
 npx create-expo-app jobSearch
 
 ### start android emulator using  expo-go following this command 
-npm install -g expo-cli
-expo-cli start --tunnel
+=> npm install -g expo-cli
+=> expo-cli start --tunnel
