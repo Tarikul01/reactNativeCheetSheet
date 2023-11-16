@@ -8,3 +8,6 @@ npx create-expo-app jobSearch
 ### start android emulator using  expo-go following this command 
 => npm install -g expo-cli \
 => expo-cli start --tunnel
+
+## CSS Flex property best and short tutorial 
+ [CSS Flex Box](https://www.youtube.com/watch?v=phWxA89Dy94)
